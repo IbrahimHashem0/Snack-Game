@@ -1,10 +1,7 @@
-package snakgame;
+package snakegame;
 
-public class SnakGame 
-{
-    public static void main(String[] args) 
-    {
-        new Frame ();    
+public class SnakeGame {
+    public static void main(String[] args) {
+        new GameFrame();
     }
-    
 }
